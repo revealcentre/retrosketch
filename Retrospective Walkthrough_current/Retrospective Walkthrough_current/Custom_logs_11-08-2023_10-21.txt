@@ -1,0 +1,158 @@
+11-08-2023_10-131036 Pause button clicked
+11-08-2023_10-131066 Pause button clicked
+11-08-2023_10-131220 Slider clicked
+11-08-2023_10-131302 Slider released
+11-08-2023_10-131518 Key Point mode selected
+11-08-2023_10-131642 Key Point plotted on Joy
+11-08-2023_10-131717 Key Point plotted on Fear
+11-08-2023_10-131794 Key Point plotted on Relaxation
+11-08-2023_10-131864 Key Point plotted on Boredom
+11-08-2023_10-131949 Key Point plotted on Presence
+11-08-2023_10-131980 5 valid points found, annotation window shown
+11-08-2023_10-146586 Annotation written: there was a behemoth​
+11-08-2023_10-147017 Slider clicked
+11-08-2023_10-147119 Slider released
+11-08-2023_10-147579 Key Point plotted on Joy
+11-08-2023_10-147707 Key Point plotted on Fear
+11-08-2023_10-147787 Key Point plotted on Relaxation
+11-08-2023_10-147853 Key Point plotted on Boredom
+11-08-2023_10-147930 Key Point plotted on Presence
+11-08-2023_10-147988 5 valid points found, annotation window shown
+11-08-2023_10-149343 Annotation written: fell into a lake​
+11-08-2023_10-149904 Line drawing mode selected
+11-08-2023_10-1410111 Left click initiated on Joy
+11-08-2023_10-1410111 Line auto-connected to start of Joy
+11-08-2023_10-1410383 Line finished drawing on Joy
+11-08-2023_10-1410580 Left click initiated on Fear
+11-08-2023_10-1410580 Line auto-connected to start of Fear
+11-08-2023_10-1410649 Line finished drawing on Fear
+11-08-2023_10-1410710 Left click initiated on Fear
+11-08-2023_10-1410710 Line drawn from point on Fear
+11-08-2023_10-1410809 Line finished drawing on Fear
+11-08-2023_10-1410932 Left click initiated on Relaxation
+11-08-2023_10-1410932 Line auto-connected to start of Relaxation
+11-08-2023_10-1411065 Line finished drawing on Relaxation
+11-08-2023_10-1411176 Left click initiated on Boredom
+11-08-2023_10-1411176 Line auto-connected to start of Boredom
+11-08-2023_10-1411322 Line finished drawing on Boredom
+11-08-2023_10-1411472 Left click initiated on Presence
+11-08-2023_10-1411472 Line auto-connected to start of Presence
+11-08-2023_10-1411523 Line finished drawing on Presence
+11-08-2023_10-1411586 Left click initiated on Presence
+11-08-2023_10-1411586 Line drawn from point on Presence
+11-08-2023_10-1411672 Line finished drawing on Presence
+11-08-2023_10-1512423 Left click initiated on Joy
+11-08-2023_10-1512423 Line drawn from point on Joy
+11-08-2023_10-1512562 Line finished drawing on Joy
+11-08-2023_10-1512775 Eraser mode selected
+11-08-2023_10-1514121 Eraser mode deselected
+11-08-2023_10-1514459 Rewind button clicked
+11-08-2023_10-1514497 Rewind button clicked
+11-08-2023_10-1514510 Rewind button clicked
+11-08-2023_10-1514520 Rewind button clicked
+11-08-2023_10-1514529 Rewind button clicked
+11-08-2023_10-1514537 Rewind button clicked
+11-08-2023_10-1514547 Rewind button clicked
+11-08-2023_10-1514567 Rewind button clicked
+11-08-2023_10-1514578 Rewind button clicked
+11-08-2023_10-1514587 Rewind button clicked
+11-08-2023_10-1514596 Rewind button clicked
+11-08-2023_10-1514604 Rewind button clicked
+11-08-2023_10-1514614 Rewind button clicked
+11-08-2023_10-1514625 Rewind button clicked
+11-08-2023_10-1514636 Rewind button clicked
+11-08-2023_10-1514647 Rewind button clicked
+11-08-2023_10-1514944 Failed key point interval validation on Joy
+11-08-2023_10-1514944 Export window opened
+11-08-2023_10-1515805 Export window closed
+11-08-2023_10-1515805 Line finished drawing on Relaxation
+11-08-2023_10-1516107 Slider clicked
+11-08-2023_10-1516142 Slider released
+11-08-2023_10-1516225 Key Point mode selected
+11-08-2023_10-1516303 Key Point plotted on Joy
+11-08-2023_10-1516379 Key Point plotted on Fear
+11-08-2023_10-1516449 Key Point plotted on Relaxation
+11-08-2023_10-1516517 Key Point plotted on Boredom
+11-08-2023_10-1516576 Key Point plotted on Presence
+11-08-2023_10-1516666 5 valid points found, annotation window shown
+11-08-2023_10-1517950 Annotation written: got out of the lake​
+11-08-2023_10-1618206 Slider clicked
+11-08-2023_10-1618279 Slider released
+11-08-2023_10-1618690 Key Point plotted on Joy
+11-08-2023_10-1618989 Key Point plotted on Fear
+11-08-2023_10-1619032 Key Point plotted on Relaxation
+11-08-2023_10-1619080 Key Point plotted on Boredom
+11-08-2023_10-1619130 Key Point plotted on Presence
+11-08-2023_10-1619214 5 valid points found, annotation window shown
+11-08-2023_10-1622005 Annotation written: defeated a spider in hand-to-hand combat​
+11-08-2023_10-1622427 Line drawing mode selected
+11-08-2023_10-1622505 Left click initiated on Joy
+11-08-2023_10-1622505 Line drawn from point on Joy
+11-08-2023_10-1622623 Line finished drawing on Joy
+11-08-2023_10-1622799 Left click initiated on Joy
+11-08-2023_10-1622799 Line drawn from point on Joy
+11-08-2023_10-1622892 Line finished drawing on Joy
+11-08-2023_10-1622999 Left click initiated on Fear
+11-08-2023_10-1622999 Line drawn from point on Fear
+11-08-2023_10-1623176 Line finished drawing on Fear
+11-08-2023_10-1623296 Left click initiated on Relaxation
+11-08-2023_10-1623296 Line drawn from point on Relaxation
+11-08-2023_10-1623411 Line finished drawing on Relaxation
+11-08-2023_10-1623518 Left click initiated on Boredom
+11-08-2023_10-1623518 Line drawn from point on Boredom
+11-08-2023_10-1623666 Line finished drawing on Boredom
+11-08-2023_10-1623764 Left click initiated on Presence
+11-08-2023_10-1623764 Line drawn from point on Presence
+11-08-2023_10-1623774 Left click initiated on Presence
+11-08-2023_10-1623774 Line drawn from point on Presence
+11-08-2023_10-1623862 Line finished drawing on Presence
+11-08-2023_10-1623913 Left click initiated on Presence
+11-08-2023_10-1623913 Line drawn from point on Presence
+11-08-2023_10-1623995 Line finished drawing on Presence
+11-08-2023_10-1724353 Slider clicked
+11-08-2023_10-1724425 Slider released
+11-08-2023_10-1724425 Line finished drawing on Joy
+11-08-2023_10-1724536 Key Point mode selected
+11-08-2023_10-1724676 Key Point plotted on Joy
+11-08-2023_10-1724748 Key Point plotted on Fear
+11-08-2023_10-1724807 Key Point plotted on Relaxation
+11-08-2023_10-1724862 Key Point plotted on Boredom
+11-08-2023_10-1724939 Key Point plotted on Presence
+11-08-2023_10-1725039 5 valid points found, annotation window shown
+11-08-2023_10-1941435 Annotation written: found the bereaved spider's widow wife, who was ironically not a black widow​
+11-08-2023_10-1941730 Slider clicked
+11-08-2023_10-1941798 Slider released
+11-08-2023_10-1941992 Key Point plotted on Joy
+11-08-2023_10-1942046 Key Point plotted on Fear
+11-08-2023_10-1942095 Key Point plotted on Relaxation
+11-08-2023_10-1942148 Key Point plotted on Boredom
+11-08-2023_10-1942210 Key Point plotted on Presence
+11-08-2023_10-1942314 5 valid points found, annotation window shown
+11-08-2023_10-2049657 Annotation written: agreed to monthly child support payments to the spider's wife following a lengthy courtcase​
+11-08-2023_10-2049945 Line drawing mode selected
+11-08-2023_10-2050114 Left click initiated on Joy
+11-08-2023_10-2050114 Line drawn from point on Joy
+11-08-2023_10-2150513 Left click initiated on Fear
+11-08-2023_10-2150513 Line drawn from point on Fear
+11-08-2023_10-2150882 Left click initiated on Relaxation
+11-08-2023_10-2150882 Line drawn from point on Relaxation
+11-08-2023_10-2151164 Left click initiated on Boredom
+11-08-2023_10-2151164 Line drawn from point on Boredom
+11-08-2023_10-2151442 Left click initiated on Presence
+11-08-2023_10-2151442 Line drawn from point on Presence
+11-08-2023_10-2151750 Point validation passed
+11-08-2023_10-2151750 Export window opened
+11-08-2023_10-2151885 Export window closed
+11-08-2023_10-2151885 Line finished drawing on Relaxation
+11-08-2023_10-2152020 Eraser mode selected
+11-08-2023_10-2153195 Eraser mode deselected
+11-08-2023_10-2153369 Left click initiated on Boredom
+11-08-2023_10-2153369 Line drawn from point on Boredom
+11-08-2023_10-2153641 Eraser mode selected
+11-08-2023_10-2153930 Eraser mode deselected
+11-08-2023_10-2154081 Left click initiated on Boredom
+11-08-2023_10-2154081 Line drawn from point on Boredom
+11-08-2023_10-2154329 Line validation passed
+11-08-2023_10-2154329 Point validation passed
+11-08-2023_10-2154329 Export window opened
+11-08-2023_10-2154556 Export window closed

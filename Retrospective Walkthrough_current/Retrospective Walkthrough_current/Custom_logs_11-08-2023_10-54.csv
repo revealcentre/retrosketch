@@ -1,0 +1,41 @@
+frame, datetime, event, x-coordinate, y-coordinate, video time1530,11-08-2023 10:52:37.257,Left click initiated on Joy,15.18154,4.547949,0
+1530,11-08-2023 10:52:37.267,Line auto-connected to start of Joy,15.18154,4.547949,0
+1716,11-08-2023 10:52:39.527,Line finished drawing on Joy,25.11744,4.778719,0
+1824,11-08-2023 10:52:40.483,Key Point mode selected,,,
+1882,11-08-2023 10:52:41.073,Key Point plotted on Joy,17.68154,5.150514,0
+1917,11-08-2023 10:52:41.461,Key Point plotted on Joy,18.56615,4.894103,0
+1956,11-08-2023 10:52:41.842,Key Point plotted on Joy,19.36102,5.009487,0
+1996,11-08-2023 10:52:42.243,Key Point plotted on Joy,20.22,4.83,0
+2044,11-08-2023 10:52:42.757,Key Point plotted on Joy,21.52769,4.83,0
+2101,11-08-2023 10:52:43.276,Key Point plotted on Joy,22.87385,4.740257,0
+2153,11-08-2023 10:52:43.787,Key Point plotted on Joy,24.23282,5.022308,0
+2263,11-08-2023 10:52:44.819,Line drawing mode selected,,,
+2358,11-08-2023 10:52:45.722,Left click initiated on Fear,15.04051,3.496667,0
+2358,11-08-2023 10:52:45.722,Line auto-connected to start of Fear,15.04051,3.496667,0
+2439,11-08-2023 10:52:47.013,Line finished drawing on Fear,25.25846,2.868462,0
+2615,11-08-2023 10:52:48.621,Key Point mode selected,,,
+2690,11-08-2023 10:52:49.360,Key Point plotted on Fear,16.10461,2.753078,0
+2740,11-08-2023 10:52:49.881,Key Point plotted on Fear,17.55333,3.176154,0
+2885,11-08-2023 10:52:51.354,Key Point plotted on Fear,19.37385,3.509487,0
+2944,11-08-2023 10:52:51.942,Key Point plotted on Fear,20.56615,3.753077,0
+2995,11-08-2023 10:52:52.485,Key Point plotted on Fear,21.88667,3.56077,0
+3052,11-08-2023 10:52:53.093,Key Point plotted on Fear,23.47641,3.227437,0
+3109,11-08-2023 10:52:53.696,Key Point plotted on Fear,24.34821,2.971026,0
+3367,11-08-2023 10:52:56.112,Line drawing mode selected,,,
+3485,11-08-2023 10:52:57.180,Left click initiated on Joy,24.96359,4.753078,0
+3485,11-08-2023 10:52:57.180,Line drawn from existing line on Joy,24.98923,4.753078,0
+3589,11-08-2023 10:52:58.425,Line finished drawing on Joy,28.46359,4.394103,0
+3804,11-08-2023 10:53:00.271,Left click initiated on Fear,25.25846,2.855641,0
+3804,11-08-2023 10:53:00.271,Line drawn from existing line on Fear,25.25846,2.855641,0
+3904,11-08-2023 10:53:01.480,Line finished drawing on Fear,28.43795,3.047949,0
+4098,11-08-2023 10:53:03.192,Eraser mode selected,,,
+4653,11-08-2023 10:53:08.986,Eraser mode deselected,,,
+4895,11-08-2023 10:53:11.104,Left click initiated on Fear,25.24564,2.881282,0
+4895,11-08-2023 10:53:11.104,Line drawn from existing line on Fear,25.24564,2.881282,0
+5466,11-08-2023 10:53:16.360,Failed key point interval validation on Relaxation,,,
+5466,11-08-2023 10:53:16.360,Export window opened,,,
+6014,11-08-2023 10:53:21.279,Export window closed,,,
+6014,11-08-2023 10:53:21.281,Line finished drawing on Relaxation,20.75846,1.740257,0
+15099,11-08-2023 10:54:46.252,Failed key point interval validation on Relaxation,,,
+15099,11-08-2023 10:54:46.267,Export window opened,,,
+15190,11-08-2023 10:54:47.519,Export window closed,,,

@@ -1,0 +1,34 @@
+frame, datetime, event, x-coordinate, y-coordinate, video time
+520,11-08-2023 10:57:35.594,Left click initiated on Joy,14.96359,4.624873,0
+520,11-08-2023 10:57:35.608,Line auto-connected to start of Joy,14.96359,4.624873,0
+601,11-08-2023 10:57:36.631,Line finished drawing on Joy,23.19436,4.906923,0
+780,11-08-2023 10:57:38.295,Key Point mode selected,,,
+842,11-08-2023 10:57:38.882,Key Point plotted on Joy,15.93795,5.163333,0
+876,11-08-2023 10:57:39.242,Key Point plotted on Joy,17.36102,5.188974,0
+908,11-08-2023 10:57:39.585,Key Point plotted on Joy,18.80974,5.06077,0
+945,11-08-2023 10:57:39.975,Key Point plotted on Joy,20.32256,5.009487,0
+986,11-08-2023 10:57:40.381,Key Point plotted on Joy,21.30974,5.112052,0
+1025,11-08-2023 10:57:40.768,Key Point plotted on Joy,22.34821,5.009487,0
+1170,11-08-2023 10:57:42.114,Pause button clicked,,,
+1196,11-08-2023 10:57:42.463,Pause button clicked,,,
+1322,11-08-2023 10:57:43.638,Slider clicked,,,
+1675,11-08-2023 10:57:48.311,Slider released,,,
+2241,11-08-2023 10:57:53.561,Pause button clicked,,,
+2329,11-08-2023 10:57:54.412,Pause button clicked,,,
+2409,11-08-2023 10:57:55.187,Slider clicked,,,
+2439,11-08-2023 10:57:55.709,Slider released,,,
+2495,11-08-2023 10:57:56.410,Line drawing mode selected,,,
+2546,11-08-2023 10:57:56.940,Left click initiated on Fear,16.60461,3.458206,524.133333333333
+2546,11-08-2023 10:57:56.940,Line drawn on Fear,16.60461,3.458206,524.133333333333
+2646,11-08-2023 10:57:58.367,Line finished drawing on Fear,20.72,3.406923,524.133333333333
+2815,11-08-2023 10:57:59.992,Key Point mode selected,,,
+2862,11-08-2023 10:58:00.467,Key Point plotted on Fear,21.47641,3.881283,732.233333333333
+2927,11-08-2023 10:58:01.095,Key Point plotted on Fear,22.95077,3.368462,732.233333333333
+3227,11-08-2023 10:58:04.008,Line drawing mode selected,,,
+3304,11-08-2023 10:58:04.729,Slider clicked,,,
+3353,11-08-2023 10:58:05.478,Slider released,,,
+3388,11-08-2023 10:58:05.921,Slider clicked,,,
+3445,11-08-2023 10:58:06.712,Slider released,,,
+3541,11-08-2023 10:58:07.786,Failed key point interval validation on Fear,,,
+3541,11-08-2023 10:58:07.786,Export window opened,,,
+3660,11-08-2023 10:58:09.152,Export window closed,,,

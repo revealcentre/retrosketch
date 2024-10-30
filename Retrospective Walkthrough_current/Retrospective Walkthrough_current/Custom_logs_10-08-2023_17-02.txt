@@ -1,0 +1,752 @@
+10-08-2023_16-52890 Pause button clicked
+10-08-2023_16-521112 Pause button clicked
+10-08-2023_16-521460 Key Point mode selected
+10-08-2023_16-523129 Line drawing mode selected
+10-08-2023_16-523345 Left click initiated on Joy (UnityEngine.Canvas) canvas
+10-08-2023_16-523345 Line auto-connected to start of Joy (UnityEngine.Canvas) canvas
+10-08-2023_16-524211 Left click initiated on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-524211 Line auto-connected to start of Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-525004 Left click initiated on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-525004 Line auto-connected to start of Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-525835 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-525835 Line auto-connected to start of Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-536484 Left click initiated on Presence (UnityEngine.Canvas) canvas
+10-08-2023_16-536484 Line auto-connected to start of Presence (UnityEngine.Canvas) canvas
+10-08-2023_16-537075 Slider clicked
+10-08-2023_16-537088 Slider snapped to keypoint
+10-08-2023_16-537088 Slider snapped to keypoint
+10-08-2023_16-537089 Slider snapped to keypoint
+10-08-2023_16-537089 Slider snapped to keypoint
+10-08-2023_16-537090 Slider snapped to keypoint
+10-08-2023_16-537090 Slider snapped to keypoint
+10-08-2023_16-537091 Slider snapped to keypoint
+10-08-2023_16-537091 Slider snapped to keypoint
+10-08-2023_16-537092 Slider snapped to keypoint
+10-08-2023_16-537092 Slider snapped to keypoint
+10-08-2023_16-537100 Slider snapped to keypoint
+10-08-2023_16-537100 Slider snapped to keypoint
+10-08-2023_16-537101 Slider snapped to keypoint
+10-08-2023_16-537101 Slider snapped to keypoint
+10-08-2023_16-537102 Slider snapped to keypoint
+10-08-2023_16-537102 Slider snapped to keypoint
+10-08-2023_16-537103 Slider snapped to keypoint
+10-08-2023_16-537103 Slider snapped to keypoint
+10-08-2023_16-537104 Slider snapped to keypoint
+10-08-2023_16-537104 Slider snapped to keypoint
+10-08-2023_16-537105 Slider snapped to keypoint
+10-08-2023_16-537105 Slider snapped to keypoint
+10-08-2023_16-537106 Slider snapped to keypoint
+10-08-2023_16-537106 Slider snapped to keypoint
+10-08-2023_16-537109 Slider snapped to keypoint
+10-08-2023_16-537109 Slider snapped to keypoint
+10-08-2023_16-537110 Slider snapped to keypoint
+10-08-2023_16-537110 Slider snapped to keypoint
+10-08-2023_16-537111 Slider snapped to keypoint
+10-08-2023_16-537111 Slider snapped to keypoint
+10-08-2023_16-537112 Slider snapped to keypoint
+10-08-2023_16-537112 Slider snapped to keypoint
+10-08-2023_16-537113 Slider snapped to keypoint
+10-08-2023_16-537113 Slider snapped to keypoint
+10-08-2023_16-537113 Slider snapped to keypoint
+10-08-2023_16-537113 Slider snapped to keypoint
+10-08-2023_16-537114 Slider snapped to keypoint
+10-08-2023_16-537114 Slider snapped to keypoint
+10-08-2023_16-537114 Slider snapped to keypoint
+10-08-2023_16-537114 Slider snapped to keypoint
+10-08-2023_16-537115 Slider snapped to keypoint
+10-08-2023_16-537115 Slider snapped to keypoint
+10-08-2023_16-537115 Slider snapped to keypoint
+10-08-2023_16-537115 Slider snapped to keypoint
+10-08-2023_16-537116 Slider snapped to keypoint
+10-08-2023_16-537116 Slider snapped to keypoint
+10-08-2023_16-537116 Slider snapped to keypoint
+10-08-2023_16-537116 Slider snapped to keypoint
+10-08-2023_16-537117 Slider snapped to keypoint
+10-08-2023_16-537117 Slider snapped to keypoint
+10-08-2023_16-537117 Slider snapped to keypoint
+10-08-2023_16-537117 Slider snapped to keypoint
+10-08-2023_16-537118 Slider snapped to keypoint
+10-08-2023_16-537118 Slider snapped to keypoint
+10-08-2023_16-537118 Slider snapped to keypoint
+10-08-2023_16-537118 Slider snapped to keypoint
+10-08-2023_16-537119 Slider snapped to keypoint
+10-08-2023_16-537119 Slider snapped to keypoint
+10-08-2023_16-537119 Slider snapped to keypoint
+10-08-2023_16-537119 Slider snapped to keypoint
+10-08-2023_16-537140 Slider snapped to keypoint
+10-08-2023_16-537140 Slider snapped to keypoint
+10-08-2023_16-537140 Slider snapped to keypoint
+10-08-2023_16-537140 Slider snapped to keypoint
+10-08-2023_16-537141 Slider snapped to keypoint
+10-08-2023_16-537141 Slider snapped to keypoint
+10-08-2023_16-537142 Slider snapped to keypoint
+10-08-2023_16-537142 Slider snapped to keypoint
+10-08-2023_16-537142 Slider snapped to keypoint
+10-08-2023_16-537142 Slider snapped to keypoint
+10-08-2023_16-537143 Slider snapped to keypoint
+10-08-2023_16-537143 Slider snapped to keypoint
+10-08-2023_16-537144 Slider snapped to keypoint
+10-08-2023_16-537144 Slider snapped to keypoint
+10-08-2023_16-537144 Slider snapped to keypoint
+10-08-2023_16-537144 Slider snapped to keypoint
+10-08-2023_16-537145 Slider snapped to keypoint
+10-08-2023_16-537145 Slider snapped to keypoint
+10-08-2023_16-537145 Slider snapped to keypoint
+10-08-2023_16-537145 Slider snapped to keypoint
+10-08-2023_16-537146 Slider snapped to keypoint
+10-08-2023_16-537146 Slider snapped to keypoint
+10-08-2023_16-537147 Slider snapped to keypoint
+10-08-2023_16-537147 Slider snapped to keypoint
+10-08-2023_16-537147 Slider snapped to keypoint
+10-08-2023_16-537147 Slider snapped to keypoint
+10-08-2023_16-537148 Slider snapped to keypoint
+10-08-2023_16-537148 Slider snapped to keypoint
+10-08-2023_16-537149 Slider snapped to keypoint
+10-08-2023_16-537149 Slider snapped to keypoint
+10-08-2023_16-537149 Slider snapped to keypoint
+10-08-2023_16-537149 Slider snapped to keypoint
+10-08-2023_16-537150 Slider snapped to keypoint
+10-08-2023_16-537150 Slider snapped to keypoint
+10-08-2023_16-537151 Slider snapped to keypoint
+10-08-2023_16-537151 Slider snapped to keypoint
+10-08-2023_16-537151 Slider snapped to keypoint
+10-08-2023_16-537151 Slider snapped to keypoint
+10-08-2023_16-537152 Slider snapped to keypoint
+10-08-2023_16-537152 Slider snapped to keypoint
+10-08-2023_16-537153 Slider snapped to keypoint
+10-08-2023_16-537153 Slider snapped to keypoint
+10-08-2023_16-537153 Slider snapped to keypoint
+10-08-2023_16-537153 Slider snapped to keypoint
+10-08-2023_16-537154 Slider snapped to keypoint
+10-08-2023_16-537154 Slider snapped to keypoint
+10-08-2023_16-537154 Slider snapped to keypoint
+10-08-2023_16-537154 Slider snapped to keypoint
+10-08-2023_16-537165 Slider snapped to keypoint
+10-08-2023_16-537165 Slider snapped to keypoint
+10-08-2023_16-537165 Slider snapped to keypoint
+10-08-2023_16-537165 Slider snapped to keypoint
+10-08-2023_16-537166 Slider snapped to keypoint
+10-08-2023_16-537166 Slider snapped to keypoint
+10-08-2023_16-537167 Slider snapped to keypoint
+10-08-2023_16-537167 Slider snapped to keypoint
+10-08-2023_16-537167 Slider snapped to keypoint
+10-08-2023_16-537167 Slider snapped to keypoint
+10-08-2023_16-537168 Slider snapped to keypoint
+10-08-2023_16-537168 Slider snapped to keypoint
+10-08-2023_16-537169 Slider snapped to keypoint
+10-08-2023_16-537169 Slider snapped to keypoint
+10-08-2023_16-537170 Slider snapped to keypoint
+10-08-2023_16-537170 Slider snapped to keypoint
+10-08-2023_16-537171 Slider snapped to keypoint
+10-08-2023_16-537171 Slider snapped to keypoint
+10-08-2023_16-537172 Slider snapped to keypoint
+10-08-2023_16-537172 Slider snapped to keypoint
+10-08-2023_16-537173 Slider snapped to keypoint
+10-08-2023_16-537173 Slider snapped to keypoint
+10-08-2023_16-537174 Slider snapped to keypoint
+10-08-2023_16-537174 Slider snapped to keypoint
+10-08-2023_16-537175 Slider snapped to keypoint
+10-08-2023_16-537175 Slider snapped to keypoint
+10-08-2023_16-537176 Slider snapped to keypoint
+10-08-2023_16-537176 Slider snapped to keypoint
+10-08-2023_16-537176 Slider snapped to keypoint
+10-08-2023_16-537176 Slider snapped to keypoint
+10-08-2023_16-537177 Slider snapped to keypoint
+10-08-2023_16-537177 Slider snapped to keypoint
+10-08-2023_16-537178 Slider snapped to keypoint
+10-08-2023_16-537178 Slider snapped to keypoint
+10-08-2023_16-537179 Slider snapped to keypoint
+10-08-2023_16-537179 Slider snapped to keypoint
+10-08-2023_16-537180 Slider snapped to keypoint
+10-08-2023_16-537180 Slider snapped to keypoint
+10-08-2023_16-537180 Slider snapped to keypoint
+10-08-2023_16-537180 Slider snapped to keypoint
+10-08-2023_16-537181 Slider snapped to keypoint
+10-08-2023_16-537181 Slider snapped to keypoint
+10-08-2023_16-537182 Slider snapped to keypoint
+10-08-2023_16-537182 Slider snapped to keypoint
+10-08-2023_16-537183 Slider snapped to keypoint
+10-08-2023_16-537183 Slider snapped to keypoint
+10-08-2023_16-537183 Slider snapped to keypoint
+10-08-2023_16-537183 Slider snapped to keypoint
+10-08-2023_16-537184 Slider snapped to keypoint
+10-08-2023_16-537184 Slider snapped to keypoint
+10-08-2023_16-537185 Slider snapped to keypoint
+10-08-2023_16-537185 Slider snapped to keypoint
+10-08-2023_16-537186 Slider snapped to keypoint
+10-08-2023_16-537186 Slider snapped to keypoint
+10-08-2023_16-537186 Slider snapped to keypoint
+10-08-2023_16-537186 Slider snapped to keypoint
+10-08-2023_16-537187 Slider snapped to keypoint
+10-08-2023_16-537187 Slider snapped to keypoint
+10-08-2023_16-537188 Slider snapped to keypoint
+10-08-2023_16-537188 Slider snapped to keypoint
+10-08-2023_16-537189 Slider snapped to keypoint
+10-08-2023_16-537189 Slider snapped to keypoint
+10-08-2023_16-537191 Slider snapped to keypoint
+10-08-2023_16-537191 Slider snapped to keypoint
+10-08-2023_16-537191 Slider snapped to keypoint
+10-08-2023_16-537191 Slider snapped to keypoint
+10-08-2023_16-537192 Slider snapped to keypoint
+10-08-2023_16-537192 Slider snapped to keypoint
+10-08-2023_16-537193 Slider snapped to keypoint
+10-08-2023_16-537193 Slider snapped to keypoint
+10-08-2023_16-537194 Slider snapped to keypoint
+10-08-2023_16-537194 Slider snapped to keypoint
+10-08-2023_16-537194 Slider snapped to keypoint
+10-08-2023_16-537194 Slider snapped to keypoint
+10-08-2023_16-537195 Slider snapped to keypoint
+10-08-2023_16-537195 Slider snapped to keypoint
+10-08-2023_16-537196 Slider snapped to keypoint
+10-08-2023_16-537196 Slider snapped to keypoint
+10-08-2023_16-537197 Slider snapped to keypoint
+10-08-2023_16-537197 Slider snapped to keypoint
+10-08-2023_16-537198 Slider snapped to keypoint
+10-08-2023_16-537198 Slider snapped to keypoint
+10-08-2023_16-537198 Slider snapped to keypoint
+10-08-2023_16-537198 Slider snapped to keypoint
+10-08-2023_16-537199 Slider snapped to keypoint
+10-08-2023_16-537199 Slider snapped to keypoint
+10-08-2023_16-537200 Slider snapped to keypoint
+10-08-2023_16-537200 Slider snapped to keypoint
+10-08-2023_16-537201 Slider snapped to keypoint
+10-08-2023_16-537201 Slider snapped to keypoint
+10-08-2023_16-537201 Slider snapped to keypoint
+10-08-2023_16-537201 Slider snapped to keypoint
+10-08-2023_16-537202 Slider snapped to keypoint
+10-08-2023_16-537202 Slider snapped to keypoint
+10-08-2023_16-537203 Slider snapped to keypoint
+10-08-2023_16-537203 Slider snapped to keypoint
+10-08-2023_16-537204 Slider snapped to keypoint
+10-08-2023_16-537204 Slider snapped to keypoint
+10-08-2023_16-537204 Slider snapped to keypoint
+10-08-2023_16-537204 Slider snapped to keypoint
+10-08-2023_16-537205 Slider snapped to keypoint
+10-08-2023_16-537205 Slider snapped to keypoint
+10-08-2023_16-537205 Slider snapped to keypoint
+10-08-2023_16-537205 Slider snapped to keypoint
+10-08-2023_16-537206 Slider snapped to keypoint
+10-08-2023_16-537206 Slider snapped to keypoint
+10-08-2023_16-537207 Slider snapped to keypoint
+10-08-2023_16-537207 Slider snapped to keypoint
+10-08-2023_16-537208 Slider snapped to keypoint
+10-08-2023_16-537208 Slider snapped to keypoint
+10-08-2023_16-537209 Slider snapped to keypoint
+10-08-2023_16-537209 Slider snapped to keypoint
+10-08-2023_16-537210 Slider snapped to keypoint
+10-08-2023_16-537210 Slider snapped to keypoint
+10-08-2023_16-537211 Slider snapped to keypoint
+10-08-2023_16-537211 Slider snapped to keypoint
+10-08-2023_16-537211 Slider snapped to keypoint
+10-08-2023_16-537211 Slider snapped to keypoint
+10-08-2023_16-537212 Slider snapped to keypoint
+10-08-2023_16-537212 Slider snapped to keypoint
+10-08-2023_16-537212 Slider snapped to keypoint
+10-08-2023_16-537212 Slider snapped to keypoint
+10-08-2023_16-537213 Slider snapped to keypoint
+10-08-2023_16-537213 Slider snapped to keypoint
+10-08-2023_16-537213 Slider snapped to keypoint
+10-08-2023_16-537213 Slider snapped to keypoint
+10-08-2023_16-537214 Slider snapped to keypoint
+10-08-2023_16-537214 Slider snapped to keypoint
+10-08-2023_16-537214 Slider snapped to keypoint
+10-08-2023_16-537214 Slider snapped to keypoint
+10-08-2023_16-537216 Slider snapped to keypoint
+10-08-2023_16-537216 Slider snapped to keypoint
+10-08-2023_16-537216 Slider snapped to keypoint
+10-08-2023_16-537216 Slider snapped to keypoint
+10-08-2023_16-537217 Slider snapped to keypoint
+10-08-2023_16-537217 Slider snapped to keypoint
+10-08-2023_16-537217 Slider snapped to keypoint
+10-08-2023_16-537217 Slider snapped to keypoint
+10-08-2023_16-537218 Slider snapped to keypoint
+10-08-2023_16-537218 Slider snapped to keypoint
+10-08-2023_16-537218 Slider snapped to keypoint
+10-08-2023_16-537218 Slider snapped to keypoint
+10-08-2023_16-537233 Slider snapped to keypoint
+10-08-2023_16-537233 Slider snapped to keypoint
+10-08-2023_16-537233 Slider snapped to keypoint
+10-08-2023_16-537233 Slider snapped to keypoint
+10-08-2023_16-537234 Slider snapped to keypoint
+10-08-2023_16-537234 Slider snapped to keypoint
+10-08-2023_16-537234 Slider snapped to keypoint
+10-08-2023_16-537234 Slider snapped to keypoint
+10-08-2023_16-537235 Slider snapped to keypoint
+10-08-2023_16-537235 Slider snapped to keypoint
+10-08-2023_16-537235 Slider snapped to keypoint
+10-08-2023_16-537235 Slider snapped to keypoint
+10-08-2023_16-537237 Slider snapped to keypoint
+10-08-2023_16-537237 Slider snapped to keypoint
+10-08-2023_16-537237 Slider snapped to keypoint
+10-08-2023_16-537237 Slider snapped to keypoint
+10-08-2023_16-537238 Slider snapped to keypoint
+10-08-2023_16-537238 Slider snapped to keypoint
+10-08-2023_16-537238 Slider snapped to keypoint
+10-08-2023_16-537238 Slider snapped to keypoint
+10-08-2023_16-537241 Slider snapped to keypoint
+10-08-2023_16-537241 Slider snapped to keypoint
+10-08-2023_16-537241 Slider snapped to keypoint
+10-08-2023_16-537241 Slider snapped to keypoint
+10-08-2023_16-537242 Slider snapped to keypoint
+10-08-2023_16-537242 Slider snapped to keypoint
+10-08-2023_16-537242 Slider snapped to keypoint
+10-08-2023_16-537242 Slider snapped to keypoint
+10-08-2023_16-537243 Slider snapped to keypoint
+10-08-2023_16-537243 Slider snapped to keypoint
+10-08-2023_16-537243 Slider snapped to keypoint
+10-08-2023_16-537243 Slider snapped to keypoint
+10-08-2023_16-537244 Slider snapped to keypoint
+10-08-2023_16-537244 Slider snapped to keypoint
+10-08-2023_16-537244 Slider snapped to keypoint
+10-08-2023_16-537244 Slider snapped to keypoint
+10-08-2023_16-537269 Slider snapped to keypoint
+10-08-2023_16-537269 Slider snapped to keypoint
+10-08-2023_16-537269 Slider snapped to keypoint
+10-08-2023_16-537269 Slider snapped to keypoint
+10-08-2023_16-537270 Slider snapped to keypoint
+10-08-2023_16-537270 Slider snapped to keypoint
+10-08-2023_16-537270 Slider snapped to keypoint
+10-08-2023_16-537270 Slider snapped to keypoint
+10-08-2023_16-537271 Slider snapped to keypoint
+10-08-2023_16-537271 Slider snapped to keypoint
+10-08-2023_16-537271 Slider snapped to keypoint
+10-08-2023_16-537271 Slider snapped to keypoint
+10-08-2023_16-537272 Slider snapped to keypoint
+10-08-2023_16-537272 Slider snapped to keypoint
+10-08-2023_16-537272 Slider snapped to keypoint
+10-08-2023_16-537272 Slider snapped to keypoint
+10-08-2023_16-537273 Slider snapped to keypoint
+10-08-2023_16-537273 Slider snapped to keypoint
+10-08-2023_16-537273 Slider snapped to keypoint
+10-08-2023_16-537273 Slider snapped to keypoint
+10-08-2023_16-537274 Slider snapped to keypoint
+10-08-2023_16-537274 Slider snapped to keypoint
+10-08-2023_16-537274 Slider snapped to keypoint
+10-08-2023_16-537274 Slider snapped to keypoint
+10-08-2023_16-537279 Slider snapped to keypoint
+10-08-2023_16-537279 Slider snapped to keypoint
+10-08-2023_16-537279 Slider snapped to keypoint
+10-08-2023_16-537279 Slider snapped to keypoint
+10-08-2023_16-537280 Slider snapped to keypoint
+10-08-2023_16-537280 Slider snapped to keypoint
+10-08-2023_16-537280 Slider snapped to keypoint
+10-08-2023_16-537280 Slider snapped to keypoint
+10-08-2023_16-537281 Slider snapped to keypoint
+10-08-2023_16-537281 Slider snapped to keypoint
+10-08-2023_16-537281 Slider snapped to keypoint
+10-08-2023_16-537281 Slider snapped to keypoint
+10-08-2023_16-537282 Slider snapped to keypoint
+10-08-2023_16-537282 Slider snapped to keypoint
+10-08-2023_16-537282 Slider snapped to keypoint
+10-08-2023_16-537282 Slider snapped to keypoint
+10-08-2023_16-537283 Slider snapped to keypoint
+10-08-2023_16-537283 Slider snapped to keypoint
+10-08-2023_16-537283 Slider snapped to keypoint
+10-08-2023_16-537283 Slider snapped to keypoint
+10-08-2023_16-537284 Slider snapped to keypoint
+10-08-2023_16-537284 Slider snapped to keypoint
+10-08-2023_16-537284 Slider snapped to keypoint
+10-08-2023_16-537284 Slider snapped to keypoint
+10-08-2023_16-537285 Slider snapped to keypoint
+10-08-2023_16-537285 Slider snapped to keypoint
+10-08-2023_16-537286 Slider snapped to keypoint
+10-08-2023_16-537286 Slider snapped to keypoint
+10-08-2023_16-537287 Slider snapped to keypoint
+10-08-2023_16-537287 Slider snapped to keypoint
+10-08-2023_16-537288 Slider snapped to keypoint
+10-08-2023_16-537288 Slider snapped to keypoint
+10-08-2023_16-537288 Slider snapped to keypoint
+10-08-2023_16-537288 Slider snapped to keypoint
+10-08-2023_16-537289 Slider snapped to keypoint
+10-08-2023_16-537289 Slider snapped to keypoint
+10-08-2023_16-537289 Slider snapped to keypoint
+10-08-2023_16-537289 Slider snapped to keypoint
+10-08-2023_16-537290 Slider snapped to keypoint
+10-08-2023_16-537290 Slider snapped to keypoint
+10-08-2023_16-537290 Slider snapped to keypoint
+10-08-2023_16-537290 Slider snapped to keypoint
+10-08-2023_16-537291 Slider snapped to keypoint
+10-08-2023_16-537291 Slider snapped to keypoint
+10-08-2023_16-537291 Slider snapped to keypoint
+10-08-2023_16-537291 Slider snapped to keypoint
+10-08-2023_16-537292 Slider snapped to keypoint
+10-08-2023_16-537292 Slider snapped to keypoint
+10-08-2023_16-537293 Slider snapped to keypoint
+10-08-2023_16-537293 Slider snapped to keypoint
+10-08-2023_16-537293 Slider snapped to keypoint
+10-08-2023_16-537293 Slider snapped to keypoint
+10-08-2023_16-537294 Slider snapped to keypoint
+10-08-2023_16-537294 Slider snapped to keypoint
+10-08-2023_16-537295 Slider snapped to keypoint
+10-08-2023_16-537295 Slider snapped to keypoint
+10-08-2023_16-537296 Slider snapped to keypoint
+10-08-2023_16-537296 Slider snapped to keypoint
+10-08-2023_16-537297 Slider snapped to keypoint
+10-08-2023_16-537297 Slider snapped to keypoint
+10-08-2023_16-537298 Slider snapped to keypoint
+10-08-2023_16-537298 Slider snapped to keypoint
+10-08-2023_16-537299 Slider snapped to keypoint
+10-08-2023_16-537299 Slider snapped to keypoint
+10-08-2023_16-537300 Slider snapped to keypoint
+10-08-2023_16-537300 Slider snapped to keypoint
+10-08-2023_16-537301 Slider snapped to keypoint
+10-08-2023_16-537301 Slider snapped to keypoint
+10-08-2023_16-537302 Slider snapped to keypoint
+10-08-2023_16-537302 Slider snapped to keypoint
+10-08-2023_16-537303 Slider snapped to keypoint
+10-08-2023_16-537303 Slider snapped to keypoint
+10-08-2023_16-537303 Slider snapped to keypoint
+10-08-2023_16-537303 Slider snapped to keypoint
+10-08-2023_16-537304 Slider snapped to keypoint
+10-08-2023_16-537304 Slider snapped to keypoint
+10-08-2023_16-537305 Slider snapped to keypoint
+10-08-2023_16-537305 Slider snapped to keypoint
+10-08-2023_16-537306 Slider snapped to keypoint
+10-08-2023_16-537306 Slider snapped to keypoint
+10-08-2023_16-537307 Slider snapped to keypoint
+10-08-2023_16-537307 Slider snapped to keypoint
+10-08-2023_16-537308 Slider snapped to keypoint
+10-08-2023_16-537308 Slider snapped to keypoint
+10-08-2023_16-537309 Slider snapped to keypoint
+10-08-2023_16-537309 Slider snapped to keypoint
+10-08-2023_16-537310 Slider snapped to keypoint
+10-08-2023_16-537310 Slider snapped to keypoint
+10-08-2023_16-537311 Slider snapped to keypoint
+10-08-2023_16-537311 Slider snapped to keypoint
+10-08-2023_16-537312 Slider snapped to keypoint
+10-08-2023_16-537312 Slider snapped to keypoint
+10-08-2023_16-537313 Slider snapped to keypoint
+10-08-2023_16-537313 Slider snapped to keypoint
+10-08-2023_16-537314 Slider snapped to keypoint
+10-08-2023_16-537314 Slider snapped to keypoint
+10-08-2023_16-537315 Slider snapped to keypoint
+10-08-2023_16-537315 Slider snapped to keypoint
+10-08-2023_16-537316 Slider snapped to keypoint
+10-08-2023_16-537316 Slider snapped to keypoint
+10-08-2023_16-537317 Slider released
+10-08-2023_16-537317 Left click released on Joy (UnityEngine.Canvas) canvas
+10-08-2023_16-537757 Left click initiated on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-537757 Line drawn on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-537953 Slider clicked
+10-08-2023_16-537956 Slider snapped to keypoint
+10-08-2023_16-537956 Slider snapped to keypoint
+10-08-2023_16-537958 Slider snapped to keypoint
+10-08-2023_16-537958 Slider snapped to keypoint
+10-08-2023_16-537959 Slider snapped to keypoint
+10-08-2023_16-537959 Slider snapped to keypoint
+10-08-2023_16-537964 Slider snapped to keypoint
+10-08-2023_16-537964 Slider snapped to keypoint
+10-08-2023_16-537965 Slider snapped to keypoint
+10-08-2023_16-537965 Slider snapped to keypoint
+10-08-2023_16-537966 Slider snapped to keypoint
+10-08-2023_16-537966 Slider snapped to keypoint
+10-08-2023_16-537967 Slider snapped to keypoint
+10-08-2023_16-537967 Slider snapped to keypoint
+10-08-2023_16-537968 Slider snapped to keypoint
+10-08-2023_16-537968 Slider snapped to keypoint
+10-08-2023_16-537969 Slider snapped to keypoint
+10-08-2023_16-537969 Slider snapped to keypoint
+10-08-2023_16-537972 Slider snapped to keypoint
+10-08-2023_16-537972 Slider snapped to keypoint
+10-08-2023_16-537976 Slider snapped to keypoint
+10-08-2023_16-537976 Slider snapped to keypoint
+10-08-2023_16-537978 Slider snapped to keypoint
+10-08-2023_16-537978 Slider snapped to keypoint
+10-08-2023_16-537979 Slider snapped to keypoint
+10-08-2023_16-537979 Slider snapped to keypoint
+10-08-2023_16-537980 Slider snapped to keypoint
+10-08-2023_16-537980 Slider snapped to keypoint
+10-08-2023_16-537981 Slider snapped to keypoint
+10-08-2023_16-537981 Slider snapped to keypoint
+10-08-2023_16-537982 Slider snapped to keypoint
+10-08-2023_16-537982 Slider snapped to keypoint
+10-08-2023_16-537985 Slider snapped to keypoint
+10-08-2023_16-537985 Slider snapped to keypoint
+10-08-2023_16-537986 Slider snapped to keypoint
+10-08-2023_16-537986 Slider snapped to keypoint
+10-08-2023_16-537987 Slider snapped to keypoint
+10-08-2023_16-537987 Slider snapped to keypoint
+10-08-2023_16-537988 Slider snapped to keypoint
+10-08-2023_16-537988 Slider snapped to keypoint
+10-08-2023_16-537989 Slider snapped to keypoint
+10-08-2023_16-537989 Slider snapped to keypoint
+10-08-2023_16-537990 Slider snapped to keypoint
+10-08-2023_16-537990 Slider snapped to keypoint
+10-08-2023_16-537992 Slider snapped to keypoint
+10-08-2023_16-537992 Slider snapped to keypoint
+10-08-2023_16-537993 Slider snapped to keypoint
+10-08-2023_16-537993 Slider snapped to keypoint
+10-08-2023_16-537993 Slider snapped to keypoint
+10-08-2023_16-537993 Slider snapped to keypoint
+10-08-2023_16-537994 Slider snapped to keypoint
+10-08-2023_16-537994 Slider snapped to keypoint
+10-08-2023_16-537995 Slider snapped to keypoint
+10-08-2023_16-537995 Slider snapped to keypoint
+10-08-2023_16-537996 Slider snapped to keypoint
+10-08-2023_16-537996 Slider snapped to keypoint
+10-08-2023_16-537996 Slider snapped to keypoint
+10-08-2023_16-537996 Slider snapped to keypoint
+10-08-2023_16-537997 Slider snapped to keypoint
+10-08-2023_16-537997 Slider snapped to keypoint
+10-08-2023_16-537998 Slider snapped to keypoint
+10-08-2023_16-537998 Slider snapped to keypoint
+10-08-2023_16-537999 Slider snapped to keypoint
+10-08-2023_16-537999 Slider snapped to keypoint
+10-08-2023_16-538000 Slider snapped to keypoint
+10-08-2023_16-538000 Slider snapped to keypoint
+10-08-2023_16-538001 Slider snapped to keypoint
+10-08-2023_16-538001 Slider snapped to keypoint
+10-08-2023_16-538002 Slider snapped to keypoint
+10-08-2023_16-538002 Slider snapped to keypoint
+10-08-2023_16-538003 Slider snapped to keypoint
+10-08-2023_16-538003 Slider snapped to keypoint
+10-08-2023_16-538020 Slider released
+10-08-2023_16-538516 Key Point mode selected
+10-08-2023_16-5314250 Eraser mode selected
+10-08-2023_16-5415483 Line drawing mode selected
+10-08-2023_16-5415841 Left click initiated on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5415841 Line drawn from existing line on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5416439 Slider clicked
+10-08-2023_16-5416443 Slider snapped to keypoint
+10-08-2023_16-5416443 Slider snapped to keypoint
+10-08-2023_16-5416444 Slider snapped to keypoint
+10-08-2023_16-5416444 Slider snapped to keypoint
+10-08-2023_16-5416445 Slider snapped to keypoint
+10-08-2023_16-5416445 Slider snapped to keypoint
+10-08-2023_16-5416446 Slider snapped to keypoint
+10-08-2023_16-5416446 Slider snapped to keypoint
+10-08-2023_16-5416447 Slider snapped to keypoint
+10-08-2023_16-5416447 Slider snapped to keypoint
+10-08-2023_16-5416448 Slider snapped to keypoint
+10-08-2023_16-5416448 Slider snapped to keypoint
+10-08-2023_16-5416449 Slider snapped to keypoint
+10-08-2023_16-5416449 Slider snapped to keypoint
+10-08-2023_16-5416454 Slider snapped to keypoint
+10-08-2023_16-5416454 Slider snapped to keypoint
+10-08-2023_16-5416455 Slider snapped to keypoint
+10-08-2023_16-5416455 Slider snapped to keypoint
+10-08-2023_16-5416456 Slider snapped to keypoint
+10-08-2023_16-5416456 Slider snapped to keypoint
+10-08-2023_16-5416458 Slider snapped to keypoint
+10-08-2023_16-5416458 Slider snapped to keypoint
+10-08-2023_16-5416461 Slider snapped to keypoint
+10-08-2023_16-5416461 Slider snapped to keypoint
+10-08-2023_16-5416462 Slider snapped to keypoint
+10-08-2023_16-5416462 Slider snapped to keypoint
+10-08-2023_16-5416463 Slider snapped to keypoint
+10-08-2023_16-5416463 Slider snapped to keypoint
+10-08-2023_16-5416464 Slider snapped to keypoint
+10-08-2023_16-5416464 Slider snapped to keypoint
+10-08-2023_16-5416465 Slider snapped to keypoint
+10-08-2023_16-5416465 Slider snapped to keypoint
+10-08-2023_16-5416467 Slider snapped to keypoint
+10-08-2023_16-5416467 Slider snapped to keypoint
+10-08-2023_16-5416469 Slider snapped to keypoint
+10-08-2023_16-5416469 Slider snapped to keypoint
+10-08-2023_16-5416470 Slider snapped to keypoint
+10-08-2023_16-5416470 Slider snapped to keypoint
+10-08-2023_16-5416472 Slider snapped to keypoint
+10-08-2023_16-5416472 Slider snapped to keypoint
+10-08-2023_16-5416474 Slider snapped to keypoint
+10-08-2023_16-5416474 Slider snapped to keypoint
+10-08-2023_16-5416499 Slider snapped to keypoint
+10-08-2023_16-5416499 Slider snapped to keypoint
+10-08-2023_16-5416504 Slider released
+10-08-2023_16-5416700 Key Point mode selected
+10-08-2023_16-5418294 Eraser mode selected
+10-08-2023_16-5418602 Eraser mode deselected
+10-08-2023_16-5421007 Line validation passed
+10-08-2023_16-5421007 Points found below/above line on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5421007 Export window opened
+10-08-2023_16-5421732 Export window closed
+10-08-2023_16-5422091 Eraser mode selected
+10-08-2023_16-5422591 Eraser mode deselected
+10-08-2023_16-5523305 Line validation passed
+10-08-2023_16-5523305 Points found below/above line on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5523305 Export window opened
+10-08-2023_16-5523416 Export window closed
+10-08-2023_16-5523968 Eraser mode selected
+10-08-2023_16-5524438 Line drawing mode selected
+10-08-2023_16-5524480 Key Point mode selected
+10-08-2023_16-5525045 Eraser mode selected
+10-08-2023_16-5525330 Line drawing mode selected
+10-08-2023_16-5525363 Key Point mode selected
+10-08-2023_16-5525858 Line validation passed
+10-08-2023_16-5525858 Points found below/above line on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5525858 Export window opened
+10-08-2023_16-5526020 Export window closed
+10-08-2023_16-5526921 Eraser mode selected
+10-08-2023_16-5528091 Line drawing mode selected
+10-08-2023_16-5528127 Key Point mode selected
+10-08-2023_16-5528540 Eraser mode selected
+10-08-2023_16-5528546 Eraser mode deselected
+10-08-2023_16-5528570 Eraser mode selected
+10-08-2023_16-5528598 Line drawing mode selected
+10-08-2023_16-5628810 Left click initiated on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5628810 Line drawn from point on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5628834 Left click released on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5628912 Left click initiated on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5628912 Line drawn from point on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5628977 Left click initiated on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5628977 Line drawn from point on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5629029 Left click initiated on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5629029 Line drawn from point on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5629190 Left click initiated on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5629190 Line drawn from point on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5629276 Eraser mode selected
+10-08-2023_16-5629469 Eraser mode deselected
+10-08-2023_16-5629584 Left click initiated on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5629584 Line drawn on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5629605 Left click released on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5629665 Eraser mode selected
+10-08-2023_16-5629816 Eraser mode deselected
+10-08-2023_16-5629944 Eraser mode selected
+10-08-2023_16-5630108 Eraser mode deselected
+10-08-2023_16-5630227 Left click initiated on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5630227 Line drawn from existing line on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5630234 Left click initiated on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5630234 Line drawn from existing line on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5630427 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5630427 Line drawn on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5630591 Eraser mode selected
+10-08-2023_16-5630858 Eraser mode deselected
+10-08-2023_16-5630961 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5630961 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5631241 Point validation passed
+10-08-2023_16-5631241 Export window opened
+10-08-2023_16-5631410 Export window closed
+10-08-2023_16-5631410 Left click initiated on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5631410 Line drawn from point on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5631596 Slider clicked
+10-08-2023_16-5631598 Slider snapped to keypoint
+10-08-2023_16-5631598 Slider snapped to keypoint
+10-08-2023_16-5631610 Slider snapped to keypoint
+10-08-2023_16-5631610 Slider snapped to keypoint
+10-08-2023_16-5631611 Slider snapped to keypoint
+10-08-2023_16-5631611 Slider snapped to keypoint
+10-08-2023_16-5631612 Slider snapped to keypoint
+10-08-2023_16-5631612 Slider snapped to keypoint
+10-08-2023_16-5631613 Slider released
+10-08-2023_16-5631674 Eraser mode selected
+10-08-2023_16-5632105 Eraser mode deselected
+10-08-2023_16-5632129 Eraser mode selected
+10-08-2023_16-5732781 Eraser mode deselected
+10-08-2023_16-5732897 Left click initiated on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5732897 Line drawn on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5732940 Left click released on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5732989 Eraser mode selected
+10-08-2023_16-5733166 Eraser mode deselected
+10-08-2023_16-5733250 Left click initiated on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5733250 Line drawn from existing line on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5733415 Point validation passed
+10-08-2023_16-5733415 Export window opened
+10-08-2023_16-5733485 Export window closed
+10-08-2023_16-5733485 Left click initiated on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5733485 Line drawn from existing line on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5733757 Eraser mode selected
+10-08-2023_16-5733935 Eraser mode deselected
+10-08-2023_16-5734365 Point validation passed
+10-08-2023_16-5734365 Export window opened
+10-08-2023_16-5734472 Export window closed
+10-08-2023_16-5734472 Left click initiated on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5734472 Line drawn from existing line on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5734651 Eraser mode selected
+10-08-2023_16-5734801 Eraser mode deselected
+10-08-2023_16-5836734 Eraser mode selected
+10-08-2023_16-5837321 Previous annotation deleted
+10-08-2023_16-5837476 Eraser mode deselected
+10-08-2023_16-5837529 Slider clicked
+10-08-2023_16-5837594 Slider released
+10-08-2023_16-5837732 Key Point mode selected
+10-08-2023_16-5838713 Line drawing mode selected
+10-08-2023_16-5838883 Left click initiated on Joy (UnityEngine.Canvas) canvas
+10-08-2023_16-5838883 Line drawn on Joy (UnityEngine.Canvas) canvas
+10-08-2023_16-5838907 Left click released on Joy (UnityEngine.Canvas) canvas
+10-08-2023_16-5838954 Eraser mode selected
+10-08-2023_16-5839097 Eraser mode deselected
+10-08-2023_16-5839173 Left click initiated on Joy (UnityEngine.Canvas) canvas
+10-08-2023_16-5839173 Line drawn from existing line on Joy (UnityEngine.Canvas) canvas
+10-08-2023_16-5839341 Left click initiated on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5839341 Line drawn from existing line on Fear (UnityEngine.Canvas) canvas
+10-08-2023_16-5839486 Left click initiated on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5839486 Line drawn on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5839605 Eraser mode selected
+10-08-2023_16-5839768 Eraser mode deselected
+10-08-2023_16-5939853 Left click initiated on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5939853 Line drawn from existing line on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_16-5940013 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940013 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940125 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940125 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940174 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940174 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940207 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940207 Line drawn from existing line on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940245 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940245 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940285 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940285 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940345 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940345 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940358 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940358 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940369 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940369 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940378 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940378 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940387 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940387 Line drawn from existing line on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940394 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940394 Line drawn from existing line on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940402 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940402 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940404 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940404 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940413 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940413 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940418 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940418 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940426 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940426 Line drawn from existing line on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940429 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940429 Line drawn from existing line on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940437 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940437 Line drawn from existing line on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940441 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940441 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940448 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940448 Line drawn from existing line on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940452 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940452 Line drawn from point on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940460 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940460 Line drawn from existing line on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940463 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940463 Line drawn from existing line on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940470 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940470 Line drawn from existing line on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940527 Eraser mode selected
+10-08-2023_16-5940724 Eraser mode deselected
+10-08-2023_16-5940831 Left click initiated on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940831 Line drawn from existing line on Boredom (UnityEngine.Canvas) canvas
+10-08-2023_16-5940921 Left click initiated on Presence (UnityEngine.Canvas) canvas
+10-08-2023_16-5940921 Line drawn on Presence (UnityEngine.Canvas) canvas
+10-08-2023_16-5940944 Left click released on Presence (UnityEngine.Canvas) canvas
+10-08-2023_16-5941005 Eraser mode selected
+10-08-2023_16-5941173 Eraser mode deselected
+10-08-2023_16-5941261 Left click initiated on Presence (UnityEngine.Canvas) canvas
+10-08-2023_16-5941261 Line drawn from existing line on Presence (UnityEngine.Canvas) canvas
+10-08-2023_16-5941560 Point validation passed
+10-08-2023_16-5941560 Export window opened
+10-08-2023_16-5941662 Export window closed
+10-08-2023_16-5941662 Left click initiated on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_17-0144394 Eraser mode selected
+10-08-2023_17-0144652 Eraser mode deselected
+10-08-2023_17-0144883 Left click initiated on Joy (UnityEngine.Canvas) canvas
+10-08-2023_17-0144883 Line drawn from existing line on Joy (UnityEngine.Canvas) canvas
+10-08-2023_17-0145209 Point validation passed
+10-08-2023_17-0145209 Export window opened
+10-08-2023_17-0145448 Export window closed
+10-08-2023_17-0145448 Left click initiated on Relaxation (UnityEngine.Canvas) canvas
+10-08-2023_17-0246493 Point validation passed
+10-08-2023_17-0246493 Export window opened
+10-08-2023_17-0246634 Export window closed

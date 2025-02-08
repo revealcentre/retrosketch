@@ -134,9 +134,6 @@ Please note that this project is released with a Contributor Code of Conduct. By
 ## **Changelog**
 
 - **0.1.0:** Initial release
-- **0.1.1:** Example-1 Fixed a bug in the build process
-- **0.2.0:** Example-2 Added a new feature
-- **0.2.1:** Example-3 Fixed a bug in the new feature
 
 ## **Contact**
 
